@@ -1,24 +1,24 @@
-# Menu-cos-
+#
 <!DOCTYPE html>
 
-<html lang="th">
+<html ="th">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<=>
+<meta name="viewport" =>
 <title>🐯 เสือกินเส้น — ระบบคิดต้นทุนเมนู</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;600;700;800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
-<style>
-  *{margin:0;padding:0;box-sizing:border-box;}
+<= =>
+<link ="https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;600;700;800&family=IBM+Plex+Mono:wght@400;600& ="stylesheet">
+<>
+  *{:;:;:;}
   :root{
     --bg:#0d0d14;--surface:#13131e;--surface2:#1a1a28;--surface3:#202030;
-    --border:#252538;--border2:#2e2e48;
+
     --text:#e8e8f0;--text2:#8888aa;--text3:#454560;
-    --orange:#ff7a1a;--orange2:#ff9a4a;--orange-dim:#ff7a1a22;
-    --green:#22c55e;--green-dim:#22c55e1a;
+
+
     --yellow:#f59e0b;--yellow-dim:#f59e0b1a;
-    --red:#ef4444;--red-dim:#ef44441a;
-    --blue:#38bdf8;--purple:#a78bfa;
+
+
   }
   html,body{height:100%;background:var(--bg);color:var(--text);font-family:'Sarabun',sans-serif;font-size:14px;overflow:hidden;}
 
